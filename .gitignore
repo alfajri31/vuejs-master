@@ -1,0 +1,9 @@
+node_modules
+.vscodec
+*.iml
+.idea
+package-lock.json
+*.jpg
+*.png
+*.jpeg
+*.pdf
